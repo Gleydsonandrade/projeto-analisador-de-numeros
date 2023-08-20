@@ -67,4 +67,8 @@ select {
     section {
         width: 350px;
     }
+
+    select {
+        height: 150px;
+    }
 }
